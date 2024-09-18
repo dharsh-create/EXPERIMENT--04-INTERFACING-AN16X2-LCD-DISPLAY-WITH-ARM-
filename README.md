@@ -175,6 +175,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## STM 32 CUBE PROGRAM :
+```
 #include "main.h"
 #include "lcd.h"
 Lcd_PortType ports[] = {GPIOA,GPIOA,GPIOA,GPIOA};
@@ -269,6 +270,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 {
 }
 #endif
+```
 
 
 
@@ -279,6 +281,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ![Screenshot 2024-09-18 114047](https://github.com/user-attachments/assets/93463cea-7923-4d40-b24c-d1feccd955eb)
+
  
  
 ## Result :
